@@ -1,0 +1,8 @@
+Executing script: C:\Users\JennEric\Desktop\TwilioQuest\dictionaries.py
+Script arguments: 
+Output:
+  File "C:\Users\JennEric\Desktop\TwilioQuest\dictionaries.py", line 1
+    super_hero = dict([name:'Miles Morales',hero_name:'Spiderman',power_level:9999]
+                           ^
+SyntaxError: invalid syntax
+
